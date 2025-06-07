@@ -56,7 +56,11 @@ mdurl==0.1.2
 multidict==6.1.0
 multiprocess==0.70.16
 nest-asyncio==1.6.0
+<<<<<<< Updated upstream
 numpy==2.1.2
+=======
+numpy==1.26.3
+>>>>>>> Stashed changes
 packaging==24.1
 pandas==2.2.3
 parso==0.8.4
